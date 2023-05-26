@@ -1,6 +1,7 @@
 const appId = "C106014023";
 
-const url = "https://web-drcn.hispace.dbankcloud.cn/uowap/index";
+// called from `https://appgallery.huawei.com/app/$appId`
+const url = "https://web-dre.hispace.dbankcloud.cn/uowap/index";
 const params = {
     params: {
         method: "internal.getTabDetail",
